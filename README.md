@@ -5,7 +5,7 @@ A AOSP maintainer working on and contributing to various projects!
 
 - _I Also have some disabilities like I have High Vison Issue In My Both Of Eyes Retina_ 
 
-I am maintaining roms for poco x5 5g / redmi note 12 5g & Redmi 10 C/Power - [Pixelstar](https://github.com/Project-PixelStar) 
+I am maintaining roms for poco x5 5g / redmi note 12 5g - [Pixelstar](https://github.com/Project-PixelStar) 
 
 Socials 
 --------
