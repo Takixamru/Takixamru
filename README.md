@@ -24,6 +24,6 @@ Email addresses for formal contact
 Stats
 -----
 
-<a href="https://github.com/takixamru">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amrito1&show_icons=true&theme=nord&include_all_commits=true" />
+<a href="https://github.com/Takixamru">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Takixamru&show_icons=true&theme=nord&include_all_commits=true" />
 </a>
