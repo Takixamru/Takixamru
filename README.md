@@ -5,7 +5,7 @@ A AOSP maintainer working on and contributing to various projects!
 
 - _I Also have some disabilities like I have High Vison Issue In My Both Of Eyes Retina_ 
 
-I am Core member of [The Pear OS Project](https://github.com/TeamPear-OS-Project) & maintaining roms for poco x5 5g / redmi note 12 5g & Redmi 10 C/Power - [Pixelstar](https://github.com/Project-PixelStar) & [Cherish OS ](https://github.com/elrant) & [Project Zephryus](https://github.com/Project-Zephyrus)
+I am maintaining roms for poco x5 5g / redmi note 12 5g & Redmi 10 C/Power - [Pixelstar](https://github.com/Project-PixelStar) 
 
 Socials 
 --------
