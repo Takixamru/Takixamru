@@ -5,8 +5,7 @@ An AOSP maintainer working on and contributing to various projects!
  
  Officially Maintaing roms for poco x5 5g / redmi note 12 5g - [Pixelstar](https://github.com/Project-PixelStar) | [Project Everest](https://github.com/ProjectEverest/) | [DroidX](https://github.com/DroidX-UI) 
  &
- Also Core Member Of Verious AOSP Projects - [Pixelstar](https://github.com/Project-PixelStar)  | [Project Blaze](https://github.com/ProjectBlaze)
-
+ Also Core Member Of Verious AOSP Projects - [Pixelstar](https://github.com/Project-PixelStar)  
 
 Socials 
 --------
