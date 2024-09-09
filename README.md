@@ -1,4 +1,4 @@
-An AOpen Source working on and contributing to various projects!
+An An Open Source developer working on and contributing to various projects!
 ------------------------------------------------------------------------
 
 **I am 15 Yrs Old And A Student & Android Enthusiast & A Discord Bot Developer , I also Know Node.js , Python ,  JavaScript (little bit) . I Also Have Specialities in Various Things**
