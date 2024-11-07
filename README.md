@@ -18,7 +18,8 @@ Email addresses for formal contact
 - Organizational help, partnership, business inquiries, etc: `amrito[at]myyahoo.com`
 
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.5%20lakhs%20lines%20of%20code-blue)
 
-[![](https://visitcount.itsvg.in/api?id=takixamru&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=takixamru&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takixamru&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
